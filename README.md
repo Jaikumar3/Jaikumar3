@@ -1,7 +1,6 @@
 👨‍💻 About me
 
-- 👋 Hi, I’m @Jaikumar3
-
+- 👋 Hi, I’m Jai Kumar
 
 🧐 Find Me
 
