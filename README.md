@@ -16,4 +16,4 @@ Skills: Penetration Testing - Web Application | API | Mobile (iOS & Android)
 
 🐦 linkedin: @Jaikumarb2
     
-    Website: https://jai-kumar.netlify.app
+🐦 Website: https://jai-kumar.netlify.app
