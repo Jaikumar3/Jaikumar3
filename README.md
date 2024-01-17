@@ -2,11 +2,11 @@
 
 Hi there 👋, My Name is Jai kumar
 
-I'm a security engineer at work with great knowledge of web applications, APIs, Android applications and network penetration testing.I have over 2+ years of experience in Cyber Security,Vulnerability Assessment & Penetration Testing.
+I'm a security engineer at work with great knowledge of web applications, APIs, Android applications and Network penetration testing.I have over 3+ years of experience in Cyber Security,Vulnerability Assessment & Penetration Testing.
 
 🔭 I’m currently working as: Cyber Security Reseacher
 
-Skills: Penetration Testing - Web Application | API | Mobile (iOS & Android) 
+Skills: Penetration Testing - Web Application | API | Mobile (iOS & Android) | Hardware | Thick client | Network | Active Directory
 
 😄 Pronouns: He/him
 
