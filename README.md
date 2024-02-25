@@ -2,7 +2,7 @@
 
 Hi there 👋, My Name is Jai kumar
 
-I'm a security engineer at work with great knowledge of web applications, APIs, Android applications and Network penetration testing.I have over 3+ years of experience in Cyber Security,Vulnerability Assessment & Penetration Testing.
+I'm a security engineer at work with great knowledge of Web applications, APIs, Android applications, Network penetration testing and Hardware Hacking.I have over 3+ years of experience in Cyber Security,Vulnerability Assessment & Penetration Testing.
 
 🔭 I’m currently working as: Cyber Security Reseacher
 
