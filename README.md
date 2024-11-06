@@ -6,7 +6,7 @@ I'm a security engineer at work with great knowledge of Web applications, APIs, 
 
 🔭 I’m currently working as: Cyber Security Reseacher
 
-Skills: Penetration Testing - Web Application | API | Mobile (iOS & Android) | Hardware | Thick client | Network | Active Directory
+Skills: Penetration Testing - Web Application | API | Mobile (iOS & Android)  | Thick client | Network | Active Directory
 
 😄 Pronouns: He/him
 
